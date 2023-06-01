@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
         //new interface00();
         //interface01.mostraInterface01();
-        new interface01();
+        new interface02();
     }
 }
